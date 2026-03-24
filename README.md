@@ -1,7 +1,9 @@
 # 有道词典笔 获取 ADB 权限
 
 > 原作者：听秋念
+
 > 原文：https://m.bilibili.com/opus/1041644000127221764
+
 > 修改补充：Claude & 86lbs
 
 ---
