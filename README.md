@@ -1,7 +1,8 @@
-# [全网首发] 有道词典笔 x7pro 获取 ADB 权限
+# 有道词典笔 获取 ADB 权限
 
-> 作者：听秋念
+> 原作者：听秋念
 > 原文：https://m.bilibili.com/opus/1041644000127221764
+> 86lbs 搬运并修改
 
 ---
 
@@ -20,7 +21,7 @@
 
 ### 🤖 遇到问题？可以寻求 AI 帮助
 
-本教程的每张图片下方都附有折叠的文字版操作说明，专为方便 AI 阅读和理解而设计。如果你在某个步骤卡住了，可以将这份 README 文件发给 AI（如 Claude、ChatGPT 等），描述你卡在哪里，让 AI 结合教程内容给你具体指导。
+本教程的每张图片下方都附有折叠的文字版操作说明，专为方便 AI 阅读和理解而设计。如果你在某个步骤卡住了，可以将这份 README 文件发给 AI（如 Claude、deepseek 等），描述你卡在哪里，让 AI 结合教程内容给你具体指导。
 
 📄 **README 文件下载地址：**
 `https://raw.githubusercontent.com/86lbs/ydpen-adb-unlock/main/README.md`
