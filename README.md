@@ -83,7 +83,7 @@ YoudaoDictionaryPen-xxx's password:
 
 ### 第二步：重新发送更新请求，获取全量包链接
 
-找一个 HTTP 测试网站（这里用的是 SOJSON），将 Header 设置好，将你在 Wireshark 获得的数据填入，发送如下请求：
+找一个 HTTP 测试网站（如 https://liubs1135gg-ota.hf.space/ ），将 Header 设置好，将你在 Wireshark 获得的数据填入，发送如下请求：
 
 ```json
 {
