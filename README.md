@@ -73,6 +73,8 @@ YoudaoDictionaryPen-xxx's password:
 > 💡 **抓不到包？** 词典笔界面显示"正在检查更新"并不代表它真的发出了请求，有时实际上什么都没发——此时 Wireshark 里不会有任何收获。解决方法是**恢复出厂设置后重试**。
 >
 > ⚠️ **重置后无法检查更新！** 词典笔恢复出厂设置后，"检查更新"功能会失效。需要先正常使用词典笔联网，向官方服务器完成注册/激活后，检查更新功能才会恢复正常，届时再进行抓包。
+>
+> 😭 **抓到的包是加密的** 恭喜，你的笔已经修复了该漏洞😅，你无法通过伪造请求获取全量包，你可以选择其它渠道获取全量包或解adb。
 
 ![Wireshark 抓包，找到 POST 请求](images/01-wireshark-post.webp)
 
@@ -85,7 +87,7 @@ YoudaoDictionaryPen-xxx's password:
 
 ### 第二步：重新发送更新请求，获取全量包链接
 
-找一个 HTTP 测试网站（如 https://otapost.posc.net ），将 Header 设置好，将你在 Wireshark 获得的数据填入，发送如下请求：
+找一个 HTTP 测试网站（如 https://otapost.posc.net ，请注意，该站点会存储你的请求体，用于优化服务），将 Header 设置好，将你在 Wireshark 获得的数据填入，发送如下请求：
 
 ```json
 {
