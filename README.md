@@ -66,6 +66,8 @@ YoudaoDictionaryPen-xxx's password:
 
 **本文用到的全部工具：** https://www.123684.com/s/sE1hjv-mklwd?提取码: `0m8B`
 
+[有人说无法登录123，我转存了一份免登录下载的](https://1818974192.share.123pan.cn/123pan/Yf4Ajv-7aV7v)
+
 ---
 
 ## 正文
